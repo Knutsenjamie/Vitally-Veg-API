@@ -127,19 +127,19 @@
         "Instructions": "1. *Disclaimer: Jackfruit needs to marinate for at LEAST 1 hour before cooking! 2.Rinse and drain 2 20oz cans of young green jackfruit in brine. Then, place jackfruit in a large gallon zip-lock bag or Tupperware container. Mash the drained jackfruit between your fingers until it resembles shredded meat. Then, sprinkle on the 1/2 tsp garlic powder, 1/2 tsp onion powder, 1 tsp salt, 1/2 tsp freshly ground black pepper, 1 tsp paprika. Massage the seasoning in with your fingers until each piece of jackfruit is coated evenly in seasoning. Then, stir in the 1 cup of vegan buffalo sauce. Close your Tupperware or zip-lock bag and let marinate in the fridge for at LEAST 1 hour. 3. Once ready to prepare, preheat oven to 375°F. 4. In a large skillet, heat 1 tbsp of neutral oil on medium-high heat. Add in marinated jackfruit, and cook for 3-5 minutes, stirring frequently, until hot and slightly browned. Set aside. 5. On a large baking sheet, place 8 slider bun bottoms down. Then, with a 1/3 or 1/4 cup scoop (depending on slider bun size), scoop on cooked buffalo jackfruit mixture onto each bun bottom. Then, add about 2 tbsp of shredded vegan cheese on top, and a sprinkle of sliced green onions. 6. Next, take the top of the slider buns, and spread about 1 or 2 Tbsp of Creamy Vegan Buttermilk Ranch on. Place the ranch covered tops onto the sliders. Lastly, take 4 Tbsp of melted vegan butter and brush the tops of the sliders until moist. Sprinkle on everything bagel seasoning or toasted sesame seeds onto the bun tops. Bake at 375°F for 10-15 minutes or until cheese is melted and bun tops are golden. Serve hot and enjoy!"
 
     },
-    
+
     {
         "RecipeId": [11],
-        "img": "",
-        "Name": "",
-        "Category": "",
-        "Cuisine": "",
-        "Ingredients": "",
-        "TotalTime": "",
-        "Yield": [],
-        "Instructions": ""
-
+        "img": "https://vitallyveg.com/wp-content/uploads/2020/07/Vegan-Thai-Curry.jpg",
+        "Name": "Vegan Tofu Thai Green Curry",
+        "Category": "Dinner",
+        "Cuisine": "Asian Inspired",
+        "Ingredients": "5-6 Kafir Lime Leaves, 2 Tbsp Vegan Green Curry Paste, 1 Handful Thai Basil (About a 1/4 cup), 1 Tbsp-1/4 Cup Thai Birsdeye Chili’s (Depending on how spicy you like it! THEY ARE VERY SPICY: 1/4 Cup is like 10 Star Thai Food), 1 Large Zucchini -OR- 5-6 Thai Eggplant, 2 13.5 Oz Cans Full-Fat Coconut Milk, 1 12.3 Oz Package Extra-Firm Tofu, 2 Tbsp Palm Sugar -OR- Organic Brown Sugar, Salt & Fresh Ground Black Pepper To Taste, Cooked Jasmine Rice For Serving",
+        "TotalTime": "30 Minutes",
+        "Yield": [4],
+        "Instructions": "1. On a large cutting board, chop zucchini and tofu into bite sized pieces. Then, cut desired amount of birds-eye chilis lengthwise. Set aside. 2. In a medium-sized skillet, pour in both cans of coconut milk, and heat to a simmer on medium-high. Once simmering, whisk in curry paste and palm-sugar. 3. Then, stir in Kafir Lime leaves and again- heat to a simmer. 4. Next, pour in tofu, zucchini, and birds-eye chilis. Keep curry simmering, and cook zucchini, tofu, and chilis for 15-20 minutes or until zucchini is tender. Turn off heat. 5. On a regular-sized cutting board, chop basil into confetti-like pieces. Then, add basil directly to curry and stir to combine. Taste for salt and pepper. Lastly, remove and discard Kafir Lime leaves. 6. Serve curry hot over cooked rice. Enjoy!"
     },
+
     {
         "RecipeId": [12],
         "img": "",
@@ -150,7 +150,7 @@
         "TotalTime": "",
         "Yield": [],
         "Instructions": ""
-
+        
     }
 
 ]
