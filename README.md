@@ -1,6 +1,6 @@
-# _Kombucha Tap Room_
+# _Vitally Veg API_
 
-### _Building a web app with react fundamentals and Redux_
+### _Custom API made with my own recipes from [vitallyveg.com](https://vitallyveg.com)_
 
 ##### By:
 #####  _** Jamie Knutsen ©2021 **_
@@ -18,11 +18,11 @@
 * _Redux_
 
 ## Description: 
-The Kombucha Tap Room was designed to utilize React fundamentals as well as implement Redux to make a basic working React application. 
+This API was designed to seed data from [vitallyveg.com](https://vitallyveg.com). This API was created so that it can be used for my Capstone project at Epicodus. The user will be able to cycle through the provided recipes in this API and make a grocery list from the recipe ingredients. 
 
 ## Setup/Installation Requirements
 _You can view this webpage by checking out the url:_
-https://github.com/Knutsenjamie/Friday-Proj-With-Redux.git
+https://github.com/Knutsenjamie/Vitally-Veg-API.git
 
 ### Prerequisites
 * [Node] (https://nodejs.org/en/)
@@ -32,17 +32,13 @@ https://github.com/Knutsenjamie/Friday-Proj-With-Redux.git
 1. Open terminal
 2. Input these commands into terminal's command line:
 3. `cd desktop`
-4. Clone https://github.com/Knutsenjamie/Friday-Proj-With-Redux.git
+4. Clone https://github.com/Knutsenjamie/Vitally-Veg-API.git
 5. Run the command `code .` in your computer's terminal
 6. Open VS Code or other preffered text editor terminal within the project file
 7. To start a development server and view the project in the browser:
   * Run the command 'npm install' to install dependencies
   * Optionally, run the command 'npm run build' to make a bundle of the files
   * Finally, run the command 'npm run start' to start a development server.
-
-## Component Diagram 
-
-https://docs.google.com/document/d/1SefI6o8ek7kH2FdjhdDSfFOsLf4_tfj7mW-zaFfyVOQ/edit?usp=sharing
 
 ## Licensing
 
