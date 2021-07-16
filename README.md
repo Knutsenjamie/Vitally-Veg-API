@@ -1,4 +1,4 @@
-# _Vitally Veg API_
+# _VitallyVeg API_
 
 ### _Custom API made with my own recipes from [vitallyveg.com](https://vitallyveg.com)_
 
