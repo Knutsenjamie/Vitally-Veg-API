@@ -49,28 +49,29 @@
         "Instructions": "1. We are going to start with the sauce. In a small mixing bowl, whisk together soy sauce, vegan oyster sauce, brown sugar, and sesame oil. On a cutting board, dice 3 cloves garlic and skin and dice 1 tsp of fresh ginger. Whisk the garlic and ginger into the sauce. Set Aside. 2. On a large cutting board, cut baby bok-choy and broccoli into bite-sized pieces. Then, Julienne cut the carrots, and slice the mushrooms and onion lengthwise into medium-sized slices. Set the cut veggies aside. 3. Next, take pressed tofu and drain. On a cutting board, cube the tofu into 1″inch pieces. Set aside. 4. In a large wok or skillet, heat half of the 1/4 cup of neutral oil to medium-high. Once oil is hot, stir fry the cubed tofu on medium-high heat until golden brown on all sides (about 3-5 minutes). Add salt and freshly ground black pepper to taste. Once tofu is cooked, turn down heat to medium and using a slotted spoon or spider, take tofu out of wok/skillet and place it onto a paper-towel lined plate or bowl to drain excess oil. Set aside. 5. Next, add the rest of the 1/4 cup of oil. The wok/skillet should still be heated to medium heat. Add all of the cut vegetables to the hot pan, and stir fry for 3-5 minutes or until veggies are almost tender but not all the way cooked. Then, add half of the sauce we made, half of the 3/4 cup of veggie/vegan chicken broth, and add all of the udon noodles. Bring the heat to medium-high, and let the noodles and veggies simmer in the sauce and broth, stirring and bringing the veggies on top of the noodles often. Cook for 3-5 minutes or until sauce and broth have evaporated, and noodles are halfway cooked. Add the rest of the broth, and continue cooking for 3-5 more minutes, repeating the process of bringing the veggies to the top and cooking the noodles on the bottom in the broth. Once the broth has evaporated this time, the noodles should be fully cooked. Turn off heat, and toss in cooked tofu. The residual heat should make the tofu hot again. Taste the udon stir-fry for salt and freshly ground black pepper, and add to taste if need be. Serve hot and garnish with green onion slices. Enjoy!"
 
     },
-    
+
     {
-        "RecipeId": [],
-        "img": "",
-        "Name": "",
-        "Category": "",
-        "Cuisine": "",
-        "Ingredients": "",
-        "TotalTime": "",
-        "Yield": [],
-        "Instructions": ""
+        "RecipeId": [5],
+        "img": "https://vitallyveg.com/wp-content/uploads/2020/07/IMG_0917.jpg",
+        "Name": "Vegan Style Fair Scones",
+        "Category": "Desserts",
+        "Cuisine": "European",
+        "Ingredients": "1 Stick (1/2 Cup) COLD Vegan Butter; cut into tbsp-sized pieces, 2 3/4 Cup Organic Unbleached All-Purpose Flour, 1 Tbsp Baking Powder, 1/4 Cup Cornstarch, 2 Tbsp Organic White Sugar, 1/2 Tsp Salt, 3/4 Cup Non-Dairy Milk (I used oat), 1/2 Tsp Of Pure Vanilla Extract, Raspberry Jam (For serving), More Vegan Butter (For serving)",
+        "TotalTime": "35 Minutes",
+        "Yield": [8],
+        "Instructions": "1. Preheat oven to 400°F. 2. In a large bowl, whisk together 2 3/4 Cups flour, baking powder, salt, sugar, and cornstarch until well-combined. 3. Next, using a pastry cutter or two forks, cut the cold vegan butter into the dry mixture until the butter is mixed evenly through-out into pea-sized pieces. We want these little butter pieces so that the scones have those flaky and buttery air pockets through-out! 4. After that, pour in non-dairy milk of choice, and vanilla extract. Combine the dough with a rubber spatula spatula until everything has just come together. It should be sticky, floury, and pretty messy! 5. Next, flour a clean and open surface. Bring the scone dough out onto the floured surface and kneed for roughly 1-2 minutes or until dough forms a smooth ball. Then, slightly flatten the dough into a round disk. Take a dough cutter or knife, and outline the top of the dough into 8 even-sized triangles. After outlining the dough, cut the dough on the outline until you have 8 even-sized triangles of scone dough. 6. Grab a large baking sheet, and either spray to grease or line with baking paper. Set scones evenly spaced apart. Bake for 12-15 minutes or until bottoms are golden brown and insides are cooked. Let cool for 3 minutes, then serve warm with fresh raspberry jam and vegan butter. Enjoy!"
 
     },
+
     {
-        "RecipeId": [],
-        "img": "",
-        "Name": "",
-        "Category": "",
-        "Cuisine": "",
-        "Ingredients": "",
-        "TotalTime": "",
-        "Yield": [],
+        "RecipeId": [6],
+        "img": "https://vitallyveg.com/wp-content/uploads/2020/06/Pozole-Verde-.jpg",
+        "Name": "Vegan Jackfruit Pozole Verde",
+        "Category": "Dinner",
+        "Cuisine": "Latin American/Mexican",
+        "Ingredients": "2 20 Oz Cans Young Jackfruit In Brine; Rinsed & Drained, 1 30 Oz Can White Hominy; Rinsed & Drained, 1 Lb Tomatillos (About 6-8), 2 Jalapeños, 3 Poblano Peppers, 1 Large Bunch Cilantro, 5-6 Cloves of Garlic, 1 Medium Yellow Onion, 8 Cups Chickenless or Veggie Broth, 1/4 Cups Neutral Oil ( 2 Tbsp + 2 Tbsp; I Used Canola),1/2 Tbsp Garlic Powder, 1 Tbsp Mexican Oregano, 1 Tsp Ground Cumin, Salt & Fresh Ground Pepper To Taste, Avocado Slices (Optional; For Garnish), Radish Slices (Optional; For Garnish), Lime Wedges (Optional; For Garnish), Chopped Cilantro (Optional; For Garnish), More Jalapeño; Sliced Thin (Optional; For Garnish)",
+        "TotalTime": "2 Hours and 40 Minutes",
+        "Yield": [8],
         "Instructions": ""
 
     },
