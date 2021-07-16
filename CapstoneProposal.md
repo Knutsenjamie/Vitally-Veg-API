@@ -19,6 +19,9 @@
 * HTML
 * CSS
 * Possibly? C# Backend (more of a stretch goal- we will see what I can do)
+If Building my own API doesn't work- I will use one of these. 
+* [Tasty API](https://rapidapi.com/apidojo/api/tasty)
+* [Yummly API](https://rapidapi.com/apidojo/api/yummly2)
 
 ## If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
 
