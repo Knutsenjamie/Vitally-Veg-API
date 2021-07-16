@@ -1,5 +1,14 @@
 [
     {
-        
+        "RecipeId": [],
+        "img": "",
+        "Name": "",
+        "Category": "",
+        "Cuisine": "",
+        "Ingredients": "",
+        "CookTime": "",
+        "Yield": [],
+        "Instructions": ""
+
     }
 ]
