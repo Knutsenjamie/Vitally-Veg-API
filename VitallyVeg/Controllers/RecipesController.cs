@@ -15,8 +15,6 @@ namespace VitallyVeg.Controllers
 {
     private readonly VitallyVegContext _db;
 
-    public 
-
     public RecipesController(VitallyVegContext db, JsonFileRecipeService recipeService)
     {
         RecipeService = recipeService;
@@ -24,4 +22,9 @@ namespace VitallyVeg.Controllers
     }
     public JsonFileRecipeService RecipeService { get; }
 
+    [HttpGet]
+        public IEnumerable<Recipe> Get()
+        {
+            return RecipeService.GetRecipes();
+        }
 }
