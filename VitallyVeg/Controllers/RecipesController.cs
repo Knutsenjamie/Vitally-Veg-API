@@ -42,9 +42,7 @@ namespace VitallyVeg.Controllers
      
       if (ingredients != null)
       {
-        // query = query.Where(entry => entry.Ingredients = ingredients);
-        query = from ingredient in Ingredients
-        where ingredient.Contains ingredients
+        query = query.Where(entry => entry.Ingredients = ingredients);
       }     
 
       return await query.ToListAsync();
