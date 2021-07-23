@@ -9,22 +9,13 @@ using VitallyVeg.Models;
 
 namespace VitallyVeg.Controllers
 {
-    [ApiController]
-    [Route("api/[controller]")]
-    public class RecipesController : ControllerBase
-{
+  [Route("api/[controller]")]
+  [ApiController]
+  public class RecipesController : ControllerBase
+  {
     private readonly VitallyVegContext _db;
 
-    public RecipesController(VitallyVegContext db, JsonFileRecipeService recipeService)
+    public RecipesController(VitallyVegContext db)
     {
-        RecipeService = recipeService;
-        _db = db;
+      _db = db;
     }
-    public JsonFileRecipeService RecipeService { get; }
-
-    [HttpGet]
-        public IEnumerable<Recipe> Get()
-        {
-            return RecipeService.GetRecipes();
-        }
-}
