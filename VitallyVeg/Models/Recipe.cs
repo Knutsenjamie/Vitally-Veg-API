@@ -7,7 +7,7 @@ namespace VitallyVeg.Models
         public string Category { get; set; }
         public string Cuisine { get; set; }
         public string[] Ingredients { get; set; }
-        public string TotalTime { get; set; }
+        public string Time { get; set; }
         public int Yield { get; set; }
         public string Instructions { get; set; }
     }
