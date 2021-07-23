@@ -40,7 +40,7 @@ namespace VitallyVeg.Controllers
         query = query.Where(entry => entry.Cuisine == cuisine);
       }    
      
-      if (ingedients != null)
+      if (ingredients != null)
       {
         query = query.Where(entry => entry.Ingredients == ingredients);
       }     

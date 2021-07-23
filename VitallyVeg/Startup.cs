@@ -35,7 +35,6 @@ namespace VitallyVeg
           Version = "v1",
           Title = "Vitally Veg Recipe API",
           Description = "API for vitallyveg.com.",
-          TermsOfService = "Free Use",
           Contact = new OpenApiContact
           {
             Name = "Jamie Knutsen",
