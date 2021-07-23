@@ -40,13 +40,13 @@ namespace VitallyVeg.Controllers
         query = query.Where(entry => entry.Cuisine == cuisine);
       }    
      
-     foreach ( ingredient in ingredients)
-     {
       if (ingredients != null)
       {
-        query = query.Where(entry => entry.Ingredients = ingredients);
+        // query = query.Where(entry => entry.Ingredients = ingredients);
+        query = from ingredient in Ingredients
+        where ingredient.Contains ingredients
       }     
-    }
+
       return await query.ToListAsync();
     }
 
