@@ -21,7 +21,7 @@ namespace VitallyVeg.Controllers
     }
 
     [HttpGet]
-    public async Task<ActionResult<IEnumerable<Recipe>>> Get(string name, string category, string cuisine, string[] ingredients, string time, int yield, string instructions)
+    public async Task<ActionResult<IEnumerable<Recipe>>> Get(string name, string category, string cuisine, IEnumerable<string> ingredients, string time, int yield, string instructions)
     {
       var query = _db.Recipes.AsQueryable();
 
@@ -42,7 +42,7 @@ namespace VitallyVeg.Controllers
      
       if (ingredients != null)
       {
-        query = query.Where(entry => entry.Ingredients = ingredients);
+        query = query.Where(entry => entry.Ingredients == ingredients);
       }     
 
       return await query.ToListAsync();
