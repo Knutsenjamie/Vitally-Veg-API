@@ -7,6 +7,8 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using VitallyVeg.Models;
 
+
+
 namespace VitallyVeg.Controllers
 {
   [Route("api/[controller]")]
@@ -21,7 +23,7 @@ namespace VitallyVeg.Controllers
     }
 
     [HttpGet]
-    public async Task<ActionResult<IEnumerable<Recipe>>> Get(string name, string category, string cuisine, string ingredients, string time, int yield, string instructions)
+    public async Task<ActionResult<IEnumerable<Recipe>>> Get(string name, string category, string cuisine, string ingredients, string time, int makes, string instructions)
     {
       var query = _db.Recipes.AsQueryable();
 
