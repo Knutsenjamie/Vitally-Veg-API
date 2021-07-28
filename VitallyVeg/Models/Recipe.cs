@@ -6,6 +6,7 @@ namespace VitallyVeg.Models
     public class Recipe
     {
         public int RecipeId { get; set; }
+        public string RecipeImage { get; set; }
         public string Name { get; set; }
         public string Category { get; set; }
         public string Cuisine { get; set; }
