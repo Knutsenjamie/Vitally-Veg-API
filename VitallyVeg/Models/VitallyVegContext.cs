@@ -91,6 +91,7 @@ using System.Collections.Generic;
                 new Recipe
                 {
                     RecipeId = 7,
+                    RecipeImage = "https://vitallyveg.com/wp-content/uploads/2020/06/Potato-Poblano-Tacos.jpg",
                     Name = "Vegan Potato & Poblano Tacos With Chipotle Aioli",
                     Category = "Dinner",
                     Cuisine = "Latin American/Mexican",
@@ -102,6 +103,7 @@ using System.Collections.Generic;
                 new Recipe
                 {
                     RecipeId = 8,
+                    RecipeImage = "https://vitallyveg.com/wp-content/uploads/2020/12/Chile-Colorado-.jpg",
                     Name = "Hearty Vegan Chile Colorado",
                     Category = "Dinner",
                     Cuisine = "Latin American/Mexican",
@@ -113,6 +115,7 @@ using System.Collections.Generic;
                 new Recipe 
                 {
                     RecipeId = 9,
+                    RecipeImage = "https://vitallyveg.com/wp-content/uploads/2020/06/Vegan-Almond-Poppy-Seed.jpg",
                     Name = "Moist Vegan Almond Poppy Seed Bread",
                     Category = "Breakfast",
                     Cuisine = "American",
@@ -124,6 +127,7 @@ using System.Collections.Generic;
                 new Recipe 
                 {
                     RecipeId = 10,
+                    RecipeImage = "https://vitallyveg.com/wp-content/uploads/2020/08/Buffalo-Jack-Sliders.jpg",
                     Name = "Buffalo Ranch Jackfruit Sliders",
                     Category = "Appetizers",
                     Cuisine = "American",
@@ -135,6 +139,7 @@ using System.Collections.Generic;
                 new Recipe
                 {
                     RecipeId = 11,
+                    RecipeImage = "https://vitallyveg.com/wp-content/uploads/2020/07/Vegan-Thai-Curry.jpg",
                     Name = "Vegan Tofu Thai Green Curry",
                     Category = "Dinner",
                     Cuisine = "Asian Inspired",
@@ -146,6 +151,7 @@ using System.Collections.Generic;
                 new Recipe 
                 {
                     RecipeId = 12,
+                    RecipeImage = "https://vitallyveg.com/wp-content/uploads/2020/06/Vegan-Spanakopita.jpg",
                     Name = "Irresistible Vegan Spanakopita (Greek Spinach Pie)",
                     Category = "Dinner",
                     Cuisine = "Mediterranean",
