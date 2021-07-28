@@ -19,6 +19,7 @@ using System.Collections.Generic;
                 new Recipe 
                 {
                     RecipeId = 1,
+                    RecipeImage = "https://vitallyveg.com/wp-content/uploads/2021/03/Vegan-Hot-Wings.jpg",
                     Name = "Crispy Vegan Hot Fried Drumsticks",
                     Category = "Appetizers",
                     Cuisine = "American",
@@ -30,6 +31,7 @@ using System.Collections.Generic;
                 new Recipe 
                 {
                     RecipeId = 2,
+                    RecipeImage = "https://vitallyveg.com/wp-content/uploads/2020/07/Vegan-Donuts.jpg",
                     Name = "Fluffy Vegan Yeast Donuts",
                     Category = "Desserts",
                     Cuisine = "American",
@@ -41,6 +43,7 @@ using System.Collections.Generic;
                 new Recipe 
                 {
                     RecipeId = 3,
+                    RecipeImage = "https://vitallyveg.com/wp-content/uploads/2020/05/Fresh-Rolls.jpg",
                     Name = "Tofu & Avocado Fresh Rolls Two Different Ways",
                     Category = "Lunch",
                     Cuisine = "Asian Inspired",
