@@ -55,6 +55,7 @@ using System.Collections.Generic;
                 new Recipe 
                 {
                     RecipeId = 4,
+                    RecipeImage = "https://vitallyveg.com/wp-content/uploads/2020/08/Udon-Stir-Fry.jpg",
                     Name = "Tofu & Veggie Udon Noodle Stir-Fry",
                     Category = "Dinner",
                     Cuisine = "Asian Inspired",
@@ -66,6 +67,7 @@ using System.Collections.Generic;
                 new Recipe
                 {
                     RecipeId = 5,
+                    RecipeImage = "https://vitallyveg.com/wp-content/uploads/2020/07/IMG_0917.jpg",
                     Name = "Vegan Style Fair Scones",
                     Category = "Desserts",
                     Cuisine = "European",
@@ -77,6 +79,7 @@ using System.Collections.Generic;
                 new Recipe
                 {
                     RecipeId = 6,
+                    RecipeImage = "https://vitallyveg.com/wp-content/uploads/2020/06/Pozole-Verde-.jpg",
                     Name = "Vegan Jackfruit Pozole Verde",
                     Category = "Dinner",
                     Cuisine = "Latin American/Mexican",
